@@ -8,6 +8,7 @@ export const fetchApi = async (url) => {
       'X-RapidAPI-Key': '559bfc8ccdmshad5ee29ed51be4ap10a40cjsn0fd0402b2627',
       'X-RapidAPI-Host': 'bayut.p.rapidapi.com'
     }
+  
   });
     
   return data;
